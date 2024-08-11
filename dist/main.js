@@ -1,1 +1,1 @@
-console.log("Log from index.js");
+document.body.appendChild(document.querySelector("#content"));
